@@ -11,6 +11,8 @@ public class Program
         pattern4();
         pattern5();
 
+        // WAP in C# using for loop??//
+
         static void pattern1()
         {
             for (int i = 1; i <= 10;  i++)
